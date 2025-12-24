@@ -1,6 +1,0 @@
-#include <stdio.h>
-int main(){
-    int a = 2;
-    printf("%d", a);  // 补充逗号，分隔格式字符串和参数
-    return 0;
-}
